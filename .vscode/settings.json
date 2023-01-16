@@ -1,0 +1,10 @@
+{
+    "material-icon-theme.folders.color": "#90a4ae",
+    "workbench.colorTheme": "Hack The Box",
+    "workbench.preferredLightColorTheme": "Tomorrow Night Blue",
+    "workbench.preferredHighContrastLightColorTheme": "Hack The Box-Lite",
+    "workbench.colorCustomizations": {
+        
+    },
+    "liveServer.settings.port": 5501
+}
